@@ -1,4 +1,3 @@
--- Drop the tables if they already exist (for resetting the schema)
 DROP TABLE IF EXISTS employee;
 DROP TABLE IF EXISTS role;
 DROP TABLE IF EXISTS department;
