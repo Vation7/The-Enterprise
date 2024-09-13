@@ -8,3 +8,5 @@ yarn-error.log
 
 # Optional logs
 *.log
+
+package-lock.json
